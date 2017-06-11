@@ -18,3 +18,4 @@
 
 ## Resources:
 http://flask.pocoo.org/docs/0.12/quickstart/
+https://www.tutorialspoint.com/flask/index.htm
