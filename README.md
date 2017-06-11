@@ -13,3 +13,7 @@
 * `export FLASK_APP=hello.py`
 * `flask run` or `python -m flask run`
 * Head over to localhost:5000 to see 'Hello, World'
+
+
+## Resources:
+http://flask.pocoo.org/docs/0.12/quickstart/
