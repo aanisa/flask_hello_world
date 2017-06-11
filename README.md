@@ -12,7 +12,7 @@
 
 ## Run Project
 * `export FLASK_APP=hello.py`
-* `flask run` or `python -m flask run`
+* `flask run` or `python -m flask run` or `Python hello.py`
 * Head over to localhost:5000 to see 'Hello, World'
 
 
