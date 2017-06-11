@@ -7,6 +7,7 @@
 * `cd flask_intro` - switch to new directory
 * `virtualenv venv` - fire up shell and create own environment
 * `. venv/bin/activate` - activate environment
+    - `deactivate` when done using virtualenv
 * `pip install flask` - install flask
 
 ## Run Project
